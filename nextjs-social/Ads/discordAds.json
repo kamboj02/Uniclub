@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "@Uniclub",
+    "brand": "ProductAds/discord-1.png",
+    "Link": "https://www.uow.edu.au/student/life/"
+  },
+  {
+    "id": 2,
+    "name": "@graphic",
+    "brand": "ProductAds/discord-2.png",
+    "Link": "https://pulse.uow.edu.au/"
+  }
+]
